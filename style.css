@@ -1,0 +1,15 @@
+.lottery-border{
+    margin-top: 15rem;
+    border: 2px solid rgb(110, 88, 63);
+    height: 300px;
+    width: 800px;
+    background-color: bisque;
+    margin-left: 530px;
+    text-align: center;
+    padding: 30px;
+    font-family:'Courier New', Courier, monospace, 'Arial Narrow Bold', sans-serif
+    
+}
+.footer-style{
+    padding-top: 35px;
+}
